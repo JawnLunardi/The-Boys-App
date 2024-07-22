@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Meet The Seven</string>
+
+    // subtitles
+    <string name="homelander_subtitle">The All-American Hero</string>
+    <string name="queen_maeve_subtitle">The Warrior of Justice</string>
+    <string name="black_noir_subtitle">The Silent Guardian</string>
+    <string name="the_deep_subtitle">The King of the Seven Seas</string>
+    <string name="a_train_subtitle">The Fastest Man Alive</string>
+    <string name="starlight_subtitle">The Beacon of Hope</string>
+    <string name="translucent_subtitle">The Invisible Protector</string>
+
+    // descriptions
+    <string name="homelander">Homelander is the symbol of American strength and virtue. Created with the highest standards, he possesses unparalleled abilities: flight, super strength, laser vision, and invulnerability. As the proud leader of The Seven, Homelander embodies the ideal hero, always ready to protect and serve with unwavering dedication.</string>,
+    <string name="queenmaeve">Queen Maeve is the epitome of power and grace. With superhuman strength and near invincibility, she stands as a true warrior for justice. A cornerstone of The Seven, Maeve combines her incredible abilities with a deep sense of duty, ensuring the world remains safe from any threat.</string>,
+    <string name="deep">The Deep is our connection to the vast oceans. With the unique ability to communicate with sea creatures and unmatched aquatic prowess, he protects marine life and ensures the safety of our waters. The Deep\\s dedication to the environment and heroism on land and sea make him an invaluable member of The Seven.</string>,
+    <string name="atrain">A-Train is the fastest man alive, bringing speed and excitement to The Seven. His supersonic abilities allow him to respond to threats in an instant, keeping the world safe at record-breaking speeds. A-Train\\s commitment to his craft and his fans makes him a true hero of the people.</string>,
+    <string name="starlight">Starlight brings light and hope to The Seven. With the power to harness and manipulate light energy, she shines brightly as a beacon of justice. Her strong moral compass and dedication to doing what\\s right make her a beloved hero, inspiring millions with her courage and integrity.</string>,
+    <string name="blacknoir">Black Noir is the silent guardian of The Seven. His unmatched skills in combat and stealth make him the ultimate protector. With a mysterious presence and unparalleled efficiency, Black Noir ensures that justice is served swiftly and silently, without compromise.</string>,
+    <string name="translucent">Translucent, with his incredible ability to become invisible and his indestructible carbon metamaterial skin, is the ultimate covert operative. His skills in surveillance and stealth make him an invaluable asset to The Seven, ensuring that no threat goes unnoticed and no villain goes unpunished.</string>,
+</resources>
